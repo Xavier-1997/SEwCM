@@ -1,5 +1,3 @@
-# Additive Cosine Margin for Unsupervised Softmax Embedding
-
 ## Usage
 
 Please refer to the official repo for details of data preparation and hardware configurations.
