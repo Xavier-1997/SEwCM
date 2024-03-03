@@ -13,7 +13,7 @@ The training and testing set DO NOT share any common categories. We use recall a
 
 #### 1) Dataset Preparation
 
-  Prepare the data. Download the datasets first. Then run codes `./pre_process_bird/` to download and pre-process each dataset
+  Prepare the data. Download the datasets first. Then run codes `./pre_process_bird.py` to download and pre-process each dataset
 
   You may use 
   ```bash
